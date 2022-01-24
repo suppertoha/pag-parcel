@@ -1,0 +1,23 @@
+{
+  "name": "pag-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suppertoha/pag-parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suppertoha/pag-parcel/issues"
+  },
+  "homepage": "https://github.com/suppertoha/pag-parcel#readme",
+  "dependencies": {
+    "sass": "^1.49.0"
+  }
+}
